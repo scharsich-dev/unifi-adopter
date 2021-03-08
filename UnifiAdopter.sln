@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnifiAdopter", "UnifiAdopter.csproj", "{0F64D94B-8EAE-4A2D-B4E3-C25E5216D79E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{68E9DBAD-C087-40C9-97D5-14289FB4B2FF}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F64D94B-8EAE-4A2D-B4E3-C25E5216D79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F64D94B-8EAE-4A2D-B4E3-C25E5216D79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F64D94B-8EAE-4A2D-B4E3-C25E5216D79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F64D94B-8EAE-4A2D-B4E3-C25E5216D79E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {083C5858-08EE-4597-8C24-4BB5C0791BD0}
+	EndGlobalSection
+EndGlobal
